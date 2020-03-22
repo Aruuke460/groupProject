@@ -9,7 +9,7 @@ public class Thirdtask{
         int one = scanner.nextInt();
         int two = scanner.nextInt();
          boolean b = one > two;
-        System.out.println("b");
+        System.out.println(b);
         System.out.println("Task 2: \n");
 
         boolean check = scanner.nextBoolean();

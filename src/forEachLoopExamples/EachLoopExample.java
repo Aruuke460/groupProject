@@ -9,19 +9,11 @@ public class EachLoopExample {
                 System.out.println(numbers[i]);
             }
         }
-        System.out.println();
+        // System.out.println();
         // For each loop
-        for (int number : numbers) {
-            if (number % 2 == 0) {
-                System.out.println(number);
-            }
-        }
-        System.out.println();
-        String[] names = {"adam", "james", "bob"};
-        for (String name : names) {
-            if (name.contains("a")) {
-                System.out.println(name);
-            }
-        }
+        //for (int number : numbers) {
+        //   if (number % 2 == 0) {
+        //     System.out.println(number);
+
     }
 }
